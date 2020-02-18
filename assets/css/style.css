@@ -1,0 +1,94 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+  } */
+
+header h2{
+    
+}
+section{
+    height: 100vh;
+    display: flex;
+ 
+}
+/* .seite{
+    background: url(../img/ilustracion1.png);
+    background: url(../img/ilustracion_people.png);
+    width: 100%;
+    height: 400px;
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+      */
+
+div{
+    width: 50%;
+    
+}
+
+
+
+
+h1{
+    font-size: 60px;
+    padding-left: 80px;
+    padding-top: 200px;
+}
+.subtext{
+    font-size: 0.5em;
+}
+
+ .text{
+     display: flex;
+     justify-content: flex-start;
+ }
+
+ .hintergrund{
+    height: 80vh;
+    padding-bottom: 400px;
+     background: url(../img/ilustracion_people.png),url(../img/ilustracion1.png);
+     background-size: contain; 
+     background-repeat: no-repeat;
+     background-position: top right;
+
+ }  
+
+ .gallary{
+     padding-bottom: 200px;
+ }
+
+ .imgGallary{
+     
+     width: 100%;
+ }  
+ .idea{
+    padding-left: 30px;
+    padding-right: 200px;
+    display: flex;
+    justify-content: flex-end;
+ }
+
+ .text2{
+     display: flex;
+     justify-content: flex-end;
+     padding-right: 150px;
+     font-size: 40px;
+ }
+ h2{
+    display: flex;
+    justify-content: flex-end;
+ }
+ .text4{
+     padding-top: 0;
+     padding-right: 200px;
+     padding-left: 200px;
+     text-align: center;
+
+ }
