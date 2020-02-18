@@ -92,3 +92,21 @@ h1{
      text-align: center;
 
  }
+ .boxes{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+ }
+ .box1{
+
+     
+ } 
+ .box2{
+
+} 
+.box3{
+ 
+} 
+.box4{
+
+} 
