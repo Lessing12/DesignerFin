@@ -97,16 +97,61 @@ h1{
      flex-wrap: wrap;
      justify-content: space-around;
  }
- .box1{
+ .box1{font-size: 25px;
 
      
  } 
- .box2{
+ .box2{font-size: 25px;
 
 } 
-.box3{
+.box3{font-size: 25px;
  
 } 
-.box4{
+.box4{font-size: 25px;
 
 } 
+.middle{
+    text-align: center;
+
+}
+.middlespan{
+text-align: center;
+font-size: 0.5em;
+display: flex;
+
+}
+.middletop{
+    height: 80vh;
+}
+.middledown{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.test1{
+    padding-top: 250px;
+    background: url(../img/step01.png);
+    background-size: contain; 
+    background-repeat: no-repeat;
+    background-position: top right;
+    justify-content: flex-start;
+    height: 400px;
+}
+.test2{
+    padding-top: 250px;
+   
+    
+}
+.test3{
+    padding-top: 250px;
+    
+    
+}
+.test4{
+    padding-top: 25px;
+}
+.number1{
+    font-size: 30px;
+    color: gray;
+    margin: 50px;
+}
